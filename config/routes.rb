@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :comments
   get 'pages/cvet'
   get 'pages/blo'
   get 'pages/info'
