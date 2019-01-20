@@ -20,4 +20,15 @@
  footer { margin-top: 100px; }
  table, td, th { vertical-align: middle; border: none; }
  th { border-bottom: 1px solid #DDD; }
- 
+ .green{
+     color:green 
+ }
+ .zaher{
+     width: 20%;
+     height: 20%;
+ }
+ .blue {
+     background-color: blueviolet;
+     color: aquamarine;
+    
+ }
